@@ -4,7 +4,7 @@
   "description": "Utils for Express",
   "main": "express-common-utils.js",
   "keywords": [
-    "express",
+    "express"
   ],
   "author": {
     "name": "Spider13",
