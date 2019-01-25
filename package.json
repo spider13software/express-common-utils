@@ -1,0 +1,19 @@
+{
+  "name": "express-common-utils",
+  "version": "0.1.0",
+  "description": "Utils for Express",
+  "main": "express-common-utils.js",
+  "keywords": [
+    "express",
+  ],
+  "author": {
+    "name": "Spider13",
+    "email": "admin@spider13.net",
+    "url": "https://spider13.net/"
+  },
+  "homepage": "https://github.com/spider13software/express-common-utils",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spider13software/express-common-utils/issues"
+  }
+}
